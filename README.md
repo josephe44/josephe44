@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other frontend developer
-- 🥅 2022 Goals: Is to build more project and get a job
+- 🥅 2022 Goals: Is to build more projects, learn more tools and programming languages 
 - ⚡ Fun fact: I love watching movies and play lot of games
 
 ### Connect with me:
