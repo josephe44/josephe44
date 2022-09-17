@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Eworld_Tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Eworld_Tech&screen_name=Eworld_Tech)
 
-## I'm a Frontend Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other frontend developer
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Is to build more projects, learn more tools and programming languages 
 - ⚡ Fun fact: I love watching movies and play lot of games
 
