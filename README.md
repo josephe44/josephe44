@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Eworld_Tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Eworld_Tech&screen_name=Eworld_Tech)
 
 ## I'm a Software Engineer!!
-I'm a passionate software engineer located in Lagos, Nigeria. My expertise lies in crafting top-notch applications that make a meaningful impact on people's lives. With a strong set of technical skills and a deep love for problem-solving, I thrive on creating solutions that address real-world challenges and bring value to users. Whether it's through web development or other innovative avenues, I'm dedicated to engineering apps that make a positive difference in the world.
+I'm a passionate software engineer located Nigeria. My expertise lies in crafting top-notch applications that make a meaningful impact on people's lives. With a strong set of technical skills and a deep love for problem-solving, I thrive on creating solutions that address real-world challenges and bring value to users. Whether it's through web development or other innovative avenues, I'm dedicated to engineering apps that make a positive difference in the world.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
