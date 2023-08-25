@@ -8,7 +8,7 @@ I'm a passionate software engineer located Nigeria. My expertise lies in craftin
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Is to build more projects, learn more tools and programming languages 
-- ⚡ Fun fact: I love watching movies and play lot of games
+- ⚡ Fun fact: I love watching movies and playing games
 
 ### Connect with me:
 
