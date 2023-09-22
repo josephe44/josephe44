@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Eworld_Tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Eworld_Tech&screen_name=Eworld_Tech)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephe44&label=Profile%20views&color=0e75b6&style=flat" alt="josephe44" /> </p>
+
 ## I'm a Software Engineer!!
 I'm a passionate software engineer located Nigeria. My expertise lies in crafting top-notch applications that make a meaningful impact on people's lives. With a strong set of technical skills and a deep love for problem-solving, I thrive on creating solutions that address real-world challenges and bring value to users. Whether it's through web development or other innovative avenues, I'm dedicated to engineering apps that make a positive difference in the world.
 
