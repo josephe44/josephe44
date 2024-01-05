@@ -7,9 +7,9 @@
 ## I'm a Software Engineer!!
 I'm a passionate software engineer located Nigeria. My expertise lies in crafting top-notch applications that make a meaningful impact on people's lives. With a strong set of technical skills and a deep love for problem-solving, I thrive on creating solutions that address real-world challenges and bring value to users. Whether it's through web development or other innovative avenues, I'm dedicated to engineering apps that make a positive difference in the world.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Is to build more projects, learn more tools and programming languages 
+- 🌱 I’m currently not learning everything 🤣, my focus is on javascript and golang 
+- 👯 I’m looking to collaborate with other developers and build amazing stuffs
+- 🥅 2024 Goals: Is to build more projects that will affect life in positive ways, teach and speak in tech events 
 - ⚡ Fun fact: I love watching movies and playing games
 
 ### Connect with me:
