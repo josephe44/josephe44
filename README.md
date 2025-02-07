@@ -4,13 +4,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephe44&label=Profile%20views&color=0e75b6&style=flat" alt="josephe44" /> </p>
 
-## I'm a Software Engineer!!
-I'm a passionate software engineer located Nigeria. My expertise lies in crafting top-notch applications that make a meaningful impact on people's lives. With a strong set of technical skills and a deep love for problem-solving, I thrive on creating solutions that address real-world challenges and bring value to users. Whether it's through web development or other innovative avenues, I'm dedicated to engineering apps that make a positive difference in the world.
+## 🚀 About Me
+I'm a Software Engineer specializing in Frontend Engineering with a focus on React.js, Next.js, React Native, and Expo. I have extensive experience in building scalable UIs and mobile applications, ensuring high performance and an intuitive user experience.
+I currently work at Qatapolt LTD as a Mobile Engineer, where I build social media solutions for athletes using React, Next.js, and React Native. My expertise extends to state management with Zustand, React Query, Firebase, Tailwind CSS, and Expo Router.
+I enjoy solving complex problems, collaborating with other engineers, and creating impactful digital products that enhance users' experiences.
 
-- 🌱 I’m currently not learning everything 🤣, my focus is on javascript and golang 
-- 👯 I’m looking to collaborate with other developers and build amazing stuffs
-- 🥅 2024 Goals: Is to build more projects that will affect life in positive ways, teach and speak in tech events 
-- ⚡ Fun fact: I love watching movies and playing games
+## 🌱 Current Focus
+- Improving my Golang skills to expand into backend development.
+- Scaling mobile and web applications for performance and efficiency.
+- Exploring animations and gestures in React Native for a richer user experience.
+
+## 🎯 2025 Goals
+- Build more impactful projects that improve lives.
+- Mentor and teach upcoming developers.
+- Speak at tech events and conferences.
+
+## ⚡ Fun Fact
+- I love watching movies, gaming, and exploring new technologies.
 
 ### Connect with me:
 
