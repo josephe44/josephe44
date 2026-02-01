@@ -14,7 +14,7 @@ I enjoy solving complex problems, collaborating with other engineers, and creati
 - Scaling mobile and web applications for performance and efficiency.
 - Exploring animations and gestures in React Native for a richer user experience.
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - Build more impactful projects that improve lives.
 - Mentor and teach upcoming developers.
 - Speak at tech events and conferences.
